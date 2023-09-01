@@ -1,0 +1,1875 @@
+ 
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<!-- DNS Prefetching -->
+	<link rel="dns-prefetch" href="https://www.genai.works">
+
+	<script data-minify="1"
+				type="text/javascript"
+				src="https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/embed.min.js?ver=1693595823"
+				data-auto-block="on"
+				data-website-uuid="1a675ada-89b0-4a7c-9431-96203c0bd936" defer>
+			</script>			<!-- Google Analytics opt-out snippet added by Site Kit -->
+						<script>
+window["ga-disable-G-VJ65LC97BT"] = true;
+</script>
+			<!-- End Google Analytics opt-out snippet added by Site Kit -->
+			<title>GENAI</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%20Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap" /></noscript>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//cdn.tiny.cloud' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//v2i6m2n4.rocketcdn.me' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link href='https://v2i6m2n4.rocketcdn.me' rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="GENAI &raquo; Feed" href="https://genai.works/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GENAI &raquo; Comments Feed" href="https://genai.works/comments/feed/" />
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sweetalert2-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/plugins/user-registration-pro/assets/css/sweetalert2/sweetalert2.min.css?ver=10.16.7' media='all' />
+<link data-minify="1" rel='stylesheet' id='user-registration-general-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/user-registration-pro/assets/css/user-registration.css?ver=1693595821' media='all' />
+<link data-minify="1" rel='stylesheet' id='user-registration-smallscreen-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/user-registration-pro/assets/css/user-registration-smallscreen.css?ver=1693595821' media='only screen and (max-width: 768px)' />
+<link data-minify="1" rel='stylesheet' id='user-registration-my-account-layout-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/user-registration-pro/assets/css/my-account-layout.css?ver=1693595821' media='all' />
+<link data-minify="1" rel='stylesheet' id='dashicons-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-includes/css/dashicons.min.css?ver=1693595821' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://v2i6m2n4.rocketcdn.me/wp-includes/css/dist/block-library/style.min.css?ver=6.3.1' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" rel='stylesheet' id='contact-form-7-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=1693595821' media='all' />
+<link rel='stylesheet' id='nbcpf-intlTelInput-style-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/plugins/country-phone-field-contact-form-7/assets/css/intlTelInput.min.css?ver=6.3.1' media='all' />
+<link rel='stylesheet' id='nbcpf-countryFlag-style-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/plugins/country-phone-field-contact-form-7/assets/css/countrySelect.min.css?ver=6.3.1' media='all' />
+<link data-minify="1" rel='stylesheet' id='pld-font-awesome-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/posts-like-dislike/css/fontawesome/css/all.min.css?ver=1693595821' media='all' />
+<link data-minify="1" rel='stylesheet' id='pld-frontend-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/posts-like-dislike/css/pld-frontend.css?ver=1693595821' media='all' />
+<link data-minify="1" rel='stylesheet' id='rating_bs_style-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/review-rating/css/rating_style.css?ver=1693595821' media='all' />
+<link data-minify="1" rel='stylesheet' id='parent-stylesheet-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/themes/hello-elementor/style.css?ver=1693595821' media='all' />
+<link data-minify="1" rel='stylesheet' id='child-stylesheet-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/themes/hello-elementor-child/style.css?ver=1693595821' media='all' />
+<link data-minify="1" rel='stylesheet' id='font-awesome-style-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/font-awesome/4.7.0/css/font-awesome.min.css?ver=1693595822' media='all' />
+<link data-minify="1" rel='stylesheet' id='slick-style-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/jquery.slick/1.4.1/slick.css?ver=1693595822' media='all' />
+<link data-minify="1" rel='stylesheet' id='slick-theme-style-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/ajax/libs/slick-carousel/1.9.0/slick-theme.css?ver=1693595822' media='all' />
+<link rel='stylesheet' id='lightbox_script_style-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/css/lightbox.min.css?ver=6.3.1' media='all' />
+<link data-minify="1" rel='stylesheet' id='slick_css-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/jquery.slick/1.4.1/slick.css?ver=1693595822' media='all' />
+<link data-minify="1" rel='stylesheet' id='FA_css-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/ajax/libs/font-awesome/6.1.0/css/all.min.css?ver=1693595822' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor/style.min.css?ver=2.8.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor/theme.min.css?ver=2.8.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.15.3' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/uploads/elementor/css/post-7.css?ver=1693571074' media='all' />
+<link data-minify="1" rel='stylesheet' id='elementor-icons-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=1693595823' media='all' />
+<link data-minify="1" rel='stylesheet' id='swiper-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=1693595823' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.15.1' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://v2i6m2n4.rocketcdn.me/wp-content/uploads/elementor/css/global.css?ver=1693571075' media='all' />
+
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src='https://v2i6m2n4.rocketcdn.me/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js' defer></script>
+<script src='https://v2i6m2n4.rocketcdn.me/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js' defer></script>
+<script id='pld-frontend-js-extra'>
+var pld_js_object = {"admin_ajax_url":"https:\/\/genai.works\/wp-admin\/admin-ajax.php","admin_ajax_nonce":"2b22242eb9"};
+</script>
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/posts-like-dislike/js/pld-frontend.js?ver=1693595823' id='pld-frontend-js' defer></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script src='https://www.googletagmanager.com/gtag/js?id=GT-55B7MCD' id='google_gtagjs-js' async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["genai.works"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-55B7MCD");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/themes/hello-elementor-child/user-registration-js/user_register.js?ver=1693595823' id='my_amazing_script_ajaxcall-js' defer></script>
+<link rel="https://api.w.org/" href="https://genai.works/wp-json/" /><link rel="alternate" type="application/json" href="https://genai.works/wp-json/wp/v2/pages/892" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://genai.works/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.3.1" />
+<link rel="canonical" href="https://genai.works/" />
+<link rel='shortlink' href='https://genai.works/' />
+<link rel="alternate" type="application/json+oembed" href="https://genai.works/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgenai.works%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://genai.works/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgenai.works%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.108.0" /><style>a.pld-like-dislike-trigger {color: #1e73be;}</style><meta name="generator" content="Elementor 3.15.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<meta name="google-site-verification" content="dHfIu8feOn9GYtSlKFgmaoeKwv86Hv3yJFQTTtGGLQg" />
+<link rel="icon" href="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/05/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/05/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/05/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/05/cropped-favicon-270x270.png" />
+		<style id="wp-custom-css">
+			.login-action-login form#loginform ul.ursc-network-lists.ursc_theme_4 li {
+    width: 100%;
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+<body class="home page-template page-template-templates page-template-app_catalog page-template-templatesapp_catalog-php page page-id-892 logged-in wp-custom-logo user-registration-page user-registration-account elementor-default elementor-kit-7 elementor-page elementor-page-892">
+
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<header id="site-header" class="site-header dynamic-header menu-dropdown-tablet" role="banner">
+	<div class="header-inner">
+		<div class="site-branding show-logo">
+							<div class="site-logo show">
+					<a href="https://genai.works/" class="custom-logo-link" rel="home" aria-current="page"><img width="429" height="126" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20429%20126'%3E%3C/svg%3E" class="custom-logo" alt="GENAI" decoding="async" fetchpriority="high" data-lazy-srcset="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI.png 429w, https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI-300x88.png 300w" data-lazy-sizes="(max-width: 429px) 100vw, 429px" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI.png" /><noscript><img width="429" height="126" src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI.png" class="custom-logo" alt="GENAI" decoding="async" fetchpriority="high" srcset="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI.png 429w, https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI-300x88.png 300w" sizes="(max-width: 429px) 100vw, 429px" /></noscript></a>				</div>
+					</div>
+
+					<nav class="site-navigation show">
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-892 current_page_item menu-item-1731"><a href="https://genai.works/" aria-current="page">Discover</a></li>
+<li id="menu-item-5512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5512"><a target="_blank" rel="noopener" href="https://grow.genai.works/jobs">Grow</a></li>
+<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://genai.works/learn/">Learn</a></li>
+<li id="menu-item-6896" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-6896"><a href="https://genai.works/#" aria-current="page">GenAI Labs*</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://genai.works/about-us/">About Us</a></li>
+<li id="menu-item-2232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2232"><a href="https://genai.works/my-account/edit-profile/">My Account</a></li>
+</ul></div>			</nav>
+			<div class="site-navigation-toggle-holder show">
+				<div class="site-navigation-toggle" role="button" tabindex="0">
+					<i class="eicon-menu-bar" aria-hidden="true"></i>
+					<span class="screen-reader-text">Menu</span>
+				</div>
+			</div>
+			<nav class="site-navigation-dropdown show">
+				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-892 current_page_item menu-item-1731"><a href="https://genai.works/" aria-current="page">Discover</a></li>
+<li id="menu-item-5512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5512"><a target="_blank" rel="noopener" href="https://grow.genai.works/jobs">Grow</a></li>
+<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="https://genai.works/learn/">Learn</a></li>
+<li id="menu-item-6896" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-6896"><a href="https://genai.works/#" aria-current="page">GenAI Labs*</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://genai.works/about-us/">About Us</a></li>
+<li id="menu-item-2232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2232"><a href="https://genai.works/my-account/edit-profile/">My Account</a></li>
+</ul></div>			</nav>
+			</div>
+</header>
+
+
+<div id="filter_main" class="app-filter-main">
+	<div class="main_inner">
+		<div class="filter-header app-filter-header">
+			<div class="filter_titles_subtitles">
+				<h3 class="filter_title">Empower your <span class="next-color" style="color:#3498db;">life with AI</span></h3>
+				<!-- <h5 class="filter_subtitle">Discover, Experience, and Transform</h5> -->
+				<div class="search-form-class search-for_top">
+					<div class="">
+						<form action="/" method="get" autocomplete="off">
+							 <input type="text" name="s_for_top" placeholder="search..." id="keyword_for_top" class="input_search" >
+							<img class="seach-image in-filter_fot_top" alt="search-normal.png" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/search-normal.png" ><noscript><img class="seach-image in-filter_fot_top" alt="search-normal.png" src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/search-normal.png" ></noscript>
+						</form>
+					</div>
+				</div>
+			</div>	
+			<div class="filter_header_logo">
+				<a class="logo_filter" href="https://genai.works">
+										<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Vector.png" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Vector.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Vector.png " alt="Vector.png"></noscript>
+				</a>
+			</div>	
+    	</div><!-- End Filter Header  -->
+		
+		<div class="filter_area_main">
+			<div class="filter_section filter_top_featured">
+				<h3 class="">Top <span class="next-color">Featured</span></h3>
+				<div class="filter_section_inner filter_top_featured_content ">
+					<div class="app_catlog_slider top_featured_slider">			        		<div class="inner_single_slide">
+				        	<a class="top_post_titles" href="https://genai.works/app/wand-llm/">
+				            	<span class="my-image-class">
+				            		            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="Wand LLM Platform" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/fbh-1.jpg" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/fbh-1.jpg" class="contextual" alt="Wand LLM Platform" ></noscript>
+            						            					</span>
+            					<div class="video-post-title home-posts">
+					        		<h5>1056 </h5>
+					        	</div>
+					        </a>
+        						<div class="post_text_content">
+        							<div class="top_post_tags_ratings">
+		        						<div class="top_post_tags">
+			        						<div class="post_tags_items"><a>AI for Business</a></div>								    	</div>
+								    	<div class="post_rating_average">
+								    		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>							    		
+								    	</div>
+							    	</div>
+							    	<a class="top_post_titles home_tt" href="https://genai.works/app/wand-llm/">Wand LLM Platform</a>
+							    	<a class="top_post_titles" href="https://genai.works/app/wand-llm/">
+							    	<div class="top_post_description">
+										Your Business, Run Better With Wand LLM, your work becomes simpler than ever. Using the power of									</div>
+									</a>
+									<div class="categories_post">
+										<div class="categories_each_post"><a>Productivity</a></div><div class="categories_each_post"><a>Top Featured</a></div>									</div>
+								</div>
+				        	</div>
+				        			        		<div class="inner_single_slide">
+				        	<a class="top_post_titles" href="https://genai.works/app/syntaxia-backend-platform/">
+				            	<span class="my-image-class">
+				            		            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="Syntaxia Backend platform" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Syntaxia-project-home-1-1.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Syntaxia-project-home-1-1.png" class="contextual" alt="Syntaxia Backend platform" ></noscript>
+            						            					</span>
+            					<div class="video-post-title home-posts">
+					        		<h5>1048 </h5>
+					        	</div>
+					        </a>
+        						<div class="post_text_content">
+        							<div class="top_post_tags_ratings">
+		        						<div class="top_post_tags">
+			        						<div class="post_tags_items"><a>AI</a></div>								    	</div>
+								    	<div class="post_rating_average">
+								    		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>							    		
+								    	</div>
+							    	</div>
+							    	<a class="top_post_titles home_tt" href="https://genai.works/app/syntaxia-backend-platform/">Syntaxia Backend platform</a>
+							    	<a class="top_post_titles" href="https://genai.works/app/syntaxia-backend-platform/">
+							    	<div class="top_post_description">
+										Fast-track your MVP with Syntaxia, the Generative Backend-as-a-Service platform. Experience									</div>
+									</a>
+									<div class="categories_post">
+										<div class="categories_each_post"><a>Developer Tools</a></div><div class="categories_each_post"><a>Top Featured</a></div>									</div>
+								</div>
+				        	</div>
+				        			        		<div class="inner_single_slide">
+				        	<a class="top_post_titles" href="https://genai.works/app/notion/">
+				            	<span class="my-image-class">
+				            		            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="Notion" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/5fb6d3336e2d460004a5e31f-e1687299338239.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/5fb6d3336e2d460004a5e31f-e1687299338239.png" class="contextual" alt="Notion" ></noscript>
+            						            					</span>
+            					<div class="video-post-title home-posts">
+					        		<h5>703 </h5>
+					        	</div>
+					        </a>
+        						<div class="post_text_content">
+        							<div class="top_post_tags_ratings">
+		        						<div class="top_post_tags">
+			        						<div class="post_tags_items"><a>Business AI</a></div>								    	</div>
+								    	<div class="post_rating_average">
+								    		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="filled_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png" alt="filled_rating"></noscript><span>1</span>							    		
+								    	</div>
+							    	</div>
+							    	<a class="top_post_titles home_tt" href="https://genai.works/app/notion/">Notion</a>
+							    	<a class="top_post_titles" href="https://genai.works/app/notion/">
+							    	<div class="top_post_description">
+										We want to break away from today&#8217;s tools—and bring back some of the ideas of those early									</div>
+									</a>
+									<div class="categories_post">
+										<div class="categories_each_post"><a>Legal</a></div><div class="categories_each_post"><a>Productivity</a></div><div class="categories_each_post"><a>Top Featured</a></div>									</div>
+								</div>
+				        	</div>
+				        			        		<div class="inner_single_slide">
+				        	<a class="top_post_titles" href="https://genai.works/app/writesonic/">
+				            	<span class="my-image-class">
+				            		            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="Writesonic" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/logo-06-3-1.jpg" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/logo-06-3-1.jpg" class="contextual" alt="Writesonic" ></noscript>
+            						            					</span>
+            					<div class="video-post-title home-posts">
+					        		<h5>530 </h5>
+					        	</div>
+					        </a>
+        						<div class="post_text_content">
+        							<div class="top_post_tags_ratings">
+		        						<div class="top_post_tags">
+			        						<div class="post_tags_items"><a>Blogging</a></div><div class="post_tags_items"><a>Writing</a></div>								    	</div>
+								    	<div class="post_rating_average">
+								    		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>							    		
+								    	</div>
+							    	</div>
+							    	<a class="top_post_titles home_tt" href="https://genai.works/app/writesonic/">Writesonic</a>
+							    	<a class="top_post_titles" href="https://genai.works/app/writesonic/">
+							    	<div class="top_post_description">
+										Writesonic is the world&#8217;s best AI writing platform for creating SEO-optimized content that									</div>
+									</a>
+									<div class="categories_post">
+										<div class="categories_each_post"><a>Marketing and Advertising</a></div><div class="categories_each_post"><a>Top Featured</a></div>									</div>
+								</div>
+				        	</div>
+				        			        		<div class="inner_single_slide">
+				        	<a class="top_post_titles" href="https://genai.works/app/jasper-ai/">
+				            	<span class="my-image-class">
+				            		            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="Jasper AI" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Property-1Social-Media-Icon-Round.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Property-1Social-Media-Icon-Round.png" class="contextual" alt="Jasper AI" ></noscript>
+            						            					</span>
+            					<div class="video-post-title home-posts">
+					        		<h5>1212 </h5>
+					        	</div>
+					        </a>
+        						<div class="post_text_content">
+        							<div class="top_post_tags_ratings">
+		        						<div class="top_post_tags">
+			        						<div class="post_tags_items"><a>AI</a></div>								    	</div>
+								    	<div class="post_rating_average">
+								    		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="filled_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png" alt="filled_rating"></noscript><span>3.0</span>							    		
+								    	</div>
+							    	</div>
+							    	<a class="top_post_titles home_tt" href="https://genai.works/app/jasper-ai/">Jasper AI</a>
+							    	<a class="top_post_titles" href="https://genai.works/app/jasper-ai/">
+							    	<div class="top_post_description">
+										Jasper is more than just a language model. Jasper’s AI Engine starts by pulling from a									</div>
+									</a>
+									<div class="categories_post">
+										<div class="categories_each_post"><a>Top Featured</a></div>									</div>
+								</div>
+				        	</div>
+				        			        		<div class="inner_single_slide">
+				        	<a class="top_post_titles" href="https://genai.works/app/midjourney/">
+				            	<span class="my-image-class">
+				            		            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="Midjourney" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/midjourney-logo.jpg" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/midjourney-logo.jpg" class="contextual" alt="Midjourney" ></noscript>
+            						            					</span>
+            					<div class="video-post-title home-posts">
+					        		<h5>547 </h5>
+					        	</div>
+					        </a>
+        						<div class="post_text_content">
+        							<div class="top_post_tags_ratings">
+		        						<div class="top_post_tags">
+			        														    	</div>
+								    	<div class="post_rating_average">
+								    		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>							    		
+								    	</div>
+							    	</div>
+							    	<a class="top_post_titles home_tt" href="https://genai.works/app/midjourney/">Midjourney</a>
+							    	<a class="top_post_titles" href="https://genai.works/app/midjourney/">
+							    	<div class="top_post_description">
+										Midjourney is an independent research lab exploring new mediums of thought and expanding the									</div>
+									</a>
+									<div class="categories_post">
+										<div class="categories_each_post"><a>Art</a></div><div class="categories_each_post"><a>Top Featured</a></div>									</div>
+								</div>
+				        	</div>
+				        			        		<div class="inner_single_slide">
+				        	<a class="top_post_titles" href="https://genai.works/app/sembly-ai/">
+				            	<span class="my-image-class">
+				            		            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="Sembly AI" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/General-Graphic-1.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/General-Graphic-1.png" class="contextual" alt="Sembly AI" ></noscript>
+            						            					</span>
+            					<div class="video-post-title home-posts">
+					        		<h5>472 </h5>
+					        	</div>
+					        </a>
+        						<div class="post_text_content">
+        							<div class="top_post_tags_ratings">
+		        						<div class="top_post_tags">
+			        						<div class="post_tags_items"><a>Meeting Assistant</a></div>								    	</div>
+								    	<div class="post_rating_average">
+								    		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>							    		
+								    	</div>
+							    	</div>
+							    	<a class="top_post_titles home_tt" href="https://genai.works/app/sembly-ai/">Sembly AI</a>
+							    	<a class="top_post_titles" href="https://genai.works/app/sembly-ai/">
+							    	<div class="top_post_description">
+										Sembly Enterprise is a SaaS platform that unleashes the power of AI in business meetings by									</div>
+									</a>
+									<div class="categories_post">
+										<div class="categories_each_post"><a>Top Featured</a></div>									</div>
+								</div>
+				        	</div>
+				        </div>				</div>
+			</div>
+			<div class="filter_section filter_recently_added">
+				<h3 class="">Recently <span class="next-color">Added</span></h3>
+				<div class="filter_section_inner filter_recently_added_content ">
+					<div class="app_catlog_slider recently_add_slider ">				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/jamr-ai/">
+					            	<span class="my-image-class">
+					            			            						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="JAMR.AI"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/composer-screenshot@0.5x.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/composer-screenshot@0.5x.png" class="contextual" alt="JAMR.AI"  ></noscript>
+	            							            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>167 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>AI for Business</a></div><div class="post_tags_items"><a>Writing</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="filled_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png" alt="filled_rating"></noscript><span>5.0</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/jamr-ai/">JAMR.AI</a>
+								    <a class="top_post_titles" href="https://genai.works/app/jamr-ai/">
+								    	<div class="top_post_description">
+											JAMR is an innovative AI-powered platform developed by London-based startup JAMR Technologies LTD.										</div>
+									</a>
+										<div class="categories_post">
+											<div class="categories_each_post"><a>Productivity</a></div>										</div>
+
+									</div>
+					        	</div>
+					        				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/mindpal-search/">
+					            	<span class="my-image-class">
+					            			            						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="MindPal search"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/MindPal-search-feature-image.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/MindPal-search-feature-image.png" class="contextual" alt="MindPal search"  ></noscript>
+	            							            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>76 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>AI for Education</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/mindpal-search/">MindPal search</a>
+								    <a class="top_post_titles" href="https://genai.works/app/mindpal-search/">
+								    	<div class="top_post_description">
+											An AI-powered search engine for seamless knowledge search on the internet. Autogenerated summary of										</div>
+									</a>
+										<div class="categories_post">
+																					</div>
+
+									</div>
+					        	</div>
+					        				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/customgpt/">
+					            	<span class="my-image-class">
+					            			            						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="CustomGPT"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/1-1.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/1-1.png" class="contextual" alt="CustomGPT"  ></noscript>
+	            							            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>244 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>AI</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/customgpt/">CustomGPT</a>
+								    <a class="top_post_titles" href="https://genai.works/app/customgpt/">
+								    	<div class="top_post_description">
+											CustomGPT creates your own custom ChatGPT chatbot with all your business content. You then get										</div>
+									</a>
+										<div class="categories_post">
+																					</div>
+
+									</div>
+					        	</div>
+					        				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/ai-homedesign/">
+					            	<span class="my-image-class">
+					            			            						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="AI HomeDesign"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/HD-Logo-Social-1.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/HD-Logo-Social-1.png" class="contextual" alt="AI HomeDesign"  ></noscript>
+	            							            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>200 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>Generative AI</a></div><div class="post_tags_items"><a>Real Estate</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="filled_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png" alt="filled_rating"></noscript><span>4.6</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/ai-homedesign/">AI HomeDesign</a>
+								    <a class="top_post_titles" href="https://genai.works/app/ai-homedesign/">
+								    	<div class="top_post_description">
+											AI HomeDesign isn&#8217;t just your ordinary real estate photo editing service; it&#8217;s the #1										</div>
+									</a>
+										<div class="categories_post">
+											<div class="categories_each_post"><a>Art</a></div>										</div>
+
+									</div>
+					        	</div>
+					        				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/nlpearl-ai/">
+					            	<span class="my-image-class">
+					            			            						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="NLPearl.ai"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/NLPearl-Icon.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/NLPearl-Icon.png" class="contextual" alt="NLPearl.ai"  ></noscript>
+	            							            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>106 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>Cold Calls</a></div><div class="post_tags_items"><a>Sales</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/nlpearl-ai/">NLPearl.ai</a>
+								    <a class="top_post_titles" href="https://genai.works/app/nlpearl-ai/">
+								    	<div class="top_post_description">
+											NLPearl.AI is an innovative company specializing in conversational AI for telecommunications. We										</div>
+									</a>
+										<div class="categories_post">
+																					</div>
+
+									</div>
+					        	</div>
+					        				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/intelogos/">
+					            	<span class="my-image-class">
+					            		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="NLPearl.ai" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/no-image.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/no-image.png" alt="NLPearl.ai"></noscript>	            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>130 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>AI for Business</a></div><div class="post_tags_items"><a>HR</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/intelogos/">Intelogos</a>
+								    <a class="top_post_titles" href="https://genai.works/app/intelogos/">
+								    	<div class="top_post_description">
+											Intelogos &#8211; employee wellbeing and AI performance management. We help teams stay happy and										</div>
+									</a>
+										<div class="categories_post">
+											<div class="categories_each_post"><a>Human Resources</a></div>										</div>
+
+									</div>
+					        	</div>
+					        				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/chatflow-2/">
+					            	<span class="my-image-class">
+					            			            						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="ChatFlow"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/thumbnail0.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/thumbnail0.png" class="contextual" alt="ChatFlow"  ></noscript>
+	            							            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>194 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>AI for Business</a></div><div class="post_tags_items"><a>AI Research Assistant</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="filled_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png" alt="filled_rating"></noscript><span>5.0</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/chatflow-2/">ChatFlow</a>
+								    <a class="top_post_titles" href="https://genai.works/app/chatflow-2/">
+								    	<div class="top_post_description">
+											Unlock the Power of ChatGPT for Your Website! ChatFlow is an AI-powered chatbot as a service										</div>
+									</a>
+										<div class="categories_post">
+											<div class="categories_each_post"><a>Developer Tools</a></div>										</div>
+
+									</div>
+					        	</div>
+					        				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/reviewtailor/">
+					            	<span class="my-image-class">
+					            			            						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="ReviewTailor"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/u-qsgYiCeUG8IVbqi7_D3.jpg" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/u-qsgYiCeUG8IVbqi7_D3.jpg" class="contextual" alt="ReviewTailor"  ></noscript>
+	            							            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>119 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>Goal Setting</a></div><div class="post_tags_items"><a>HR</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/reviewtailor/">ReviewTailor</a>
+								    <a class="top_post_titles" href="https://genai.works/app/reviewtailor/">
+								    	<div class="top_post_description">
+											Say goodbye to time-consuming generic reviews and hello to tailored success with ReviewTailor. We										</div>
+									</a>
+										<div class="categories_post">
+											<div class="categories_each_post"><a>Marketing and Advertising</a></div>										</div>
+
+									</div>
+					        	</div>
+					        				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/quick-creator/">
+					            	<span class="my-image-class">
+					            			            						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="Quick Creator"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/homepage_new.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/homepage_new.png" class="contextual" alt="Quick Creator"  ></noscript>
+	            							            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>125 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>Content Creator</a></div><div class="post_tags_items"><a>SEO</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/quick-creator/">Quick Creator</a>
+								    <a class="top_post_titles" href="https://genai.works/app/quick-creator/">
+								    	<div class="top_post_description">
+											Quick Creator enables you to effortlessly generate SEO-optimized blogs and webpages with no prior										</div>
+									</a>
+										<div class="categories_post">
+																					</div>
+
+									</div>
+					        	</div>
+					        				        		<div class="inner_single_slide">
+				        		<a class="top_post_titles" href="https://genai.works/app/future-engine/">
+					            	<span class="my-image-class">
+					            			            						<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="FUTURE-Engine.net"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/FireShot-Capture-104-Future-Engine-Search-Page-futuresearch.bubbleapps.io_.jpg" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/FireShot-Capture-104-Future-Engine-Search-Page-futuresearch.bubbleapps.io_.jpg" class="contextual" alt="FUTURE-Engine.net"  ></noscript>
+	            							            					</span>
+	            					<div class="video-post-title home-posts">
+						        		<h5>124 </h5>
+						        	</div>
+						        </a>
+	            					<div class="post_text_content">
+	            						<div class="top_post_tags_ratings">
+			        						<div class="top_post_tags">
+				        						<div class="post_tags_items"><a>AI for Business</a></div><div class="post_tags_items"><a>AI Research Assistant</a></div><div class="post_tags_items"><a>Strategic Planning</a></div>									    	</div>
+									    	<div class="post_rating_average">
+												<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+									    	</div>
+								    	</div>
+								    	<a class="top_post_titles" href="https://genai.works/app/future-engine/">FUTURE-Engine.net</a>
+								    <a class="top_post_titles" href="https://genai.works/app/future-engine/">
+								    	<div class="top_post_description">
+											World&#8217;s first AI Due Diligence on Founders 0										</div>
+									</a>
+										<div class="categories_post">
+											<div class="categories_each_post"><a>Finance and Banking</a></div>										</div>
+
+									</div>
+					        	</div>
+					        </div>				
+				</div>
+			</div>
+			<div class="filter_section filter_top_partners">
+				<h3 class="">Partners</h3>
+				<div class="filter_section_inner filter_top_partners_content ">
+					 <div class="top_brands_main"><div class="top_brand_logos"><a class="sponser_link" data-id="4729" href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Nvidia" class="custom-thumbnail" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/png-transparent-graphics-cards-video-adapters-nvidia-quadro-logo-geforce-nvidia.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/png-transparent-graphics-cards-video-adapters-nvidia-quadro-logo-geforce-nvidia.png" alt="Nvidia" class="custom-thumbnail"></noscript></a><div class="top_brand_title">Nvidia</div><div class="top_brand_content">NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI</div></div><div class="top_brand_logos"><a class="sponser_link" data-id="4726" href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Intel" class="custom-thumbnail" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/05/intel.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/05/intel.png" alt="Intel" class="custom-thumbnail"></noscript></a><div class="top_brand_title">Intel</div><div class="top_brand_content">Intel put the silicon in Silicon Valley. For more than 50 years, Intel and our people have had a</div></div><div class="top_brand_logos"><a class="sponser_link" data-id="4723" href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Alteryx" class="custom-thumbnail" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/download-2.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/download-2.png" alt="Alteryx" class="custom-thumbnail"></noscript></a><div class="top_brand_title">Alteryx</div><div class="top_brand_content">Automated Analytics For All. Self-service analytics. Data-driven</div></div><div class="top_brand_logos"><a class="sponser_link" data-id="3930" href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Wand" class="custom-thumbnail" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/xqr6kgsa2rt8djcu5zf5-1024x538.webp"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/xqr6kgsa2rt8djcu5zf5-1024x538.webp" alt="Wand" class="custom-thumbnail"></noscript></a><div class="top_brand_title">Wand</div><div class="top_brand_content">Wand gives everyone the AI power to solve business problems and create value faster than ever</div></div><div class="top_brand_logos"><a class="sponser_link" data-id="3928" href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Buzzy Buzz" class="custom-thumbnail" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/buzzy-logo-colour-1024x429.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/buzzy-logo-colour-1024x429.png" alt="Buzzy Buzz" class="custom-thumbnail"></noscript></a><div class="top_brand_title">Buzzy Buzz</div><div class="top_brand_content">Turn an idea into a stunning app. Without code. Without limits. Buzzy&#8217;s AI-powered no code</div></div><div class="top_brand_logos"><a class="sponser_link" data-id="3867" href="#"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Ivy.ai" class="custom-thumbnail" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/Ivy_ai_Logo-1024x537.jpeg"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/07/Ivy_ai_Logo-1024x537.jpeg" alt="Ivy.ai" class="custom-thumbnail"></noscript></a><div class="top_brand_title">Ivy.ai</div><div class="top_brand_content">Finally, a smart and easy to use chatbot that uses your data. IvyQuantum™ is an all-in-one</div></div></div><div class="center hideform_sponser" style="display: none;"></div>				</div>
+			</div>
+
+			<div class="app_filter_zone">
+				<div class="left_sidebar_options">
+					<h3 class="">Filters</h3>
+					<div class="sidebar_container">
+						<!-- Start sidebar search -->
+						<div class="search-form-class">
+							<div class="">
+								<form action="/" method="get" autocomplete="off">
+									 <input type="text" name="s" placeholder="search..." id="keyword" class="input_search" >
+									<img class="seach-image in-filter" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="search-normal" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/search-normal.png" ><noscript><img class="seach-image in-filter" src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/search-normal.png" alt="search-normal" ></noscript>
+								</form>
+								<div class="search_result_all" id="datafetch">
+							        <ul id="myul">
+							            
+							        </ul>
+							    </div>
+							</div>
+						</div>
+						<!-- End sidebar search -->
+						
+						<!-- Start sidebar Sorting -->
+						<div class="sidebar_rows sidebar_sort">
+							<span class="sidebar_titles">Sort by:</span>
+							<div class="sidebar_row_content">
+								<!-- <fieldset id="sortBysection"> -->
+								    <div>
+								      	<input type="radio" id="huey" name="sorting" value="clicks">
+								      	<label for="huey">Popular</label>
+								    </div>
+								    <div>
+								      	<input type="radio" id="date" name="sorting" value="date">
+								      	<label for="date">Date Added</label>
+								    </div>
+								    <div>
+								      	<input type="radio" id="rate" name="sorting" value="rating">
+								      	<label for="rate">Rating</label>
+								    </div>
+								<!-- </fieldset> -->
+							</div>
+						</div>
+						<!-- End sidebar Sorting -->
+						<!-- Start sidebar industry -->
+						<div class="sidebar_rows sidebar_industry sidebar_taxo">
+							<span class="sidebar_titles">Industry:</span>
+							<div class="sidebar_row_content">
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="232" class ="category_input" id="art" name="category_filter[]">
+								      	<label for="art">Art<span class="category_post-count">(11)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="240" class ="category_input" id="developer-tools" name="category_filter[]">
+								      	<label for="developer-tools">Developer Tools<span class="category_post-count">(18)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="301" class ="category_input" id="education" name="category_filter[]">
+								      	<label for="education">Education<span class="category_post-count">(1)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="43" class ="category_input" id="finance-and-banking" name="category_filter[]">
+								      	<label for="finance-and-banking">Finance and Banking<span class="category_post-count">(3)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="54" class ="category_input" id="gaming-and-entertainment" name="category_filter[]">
+								      	<label for="gaming-and-entertainment">Gaming and Entertainment<span class="category_post-count">(2)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="185" class ="category_input" id="healthcare" name="category_filter[]">
+								      	<label for="healthcare">Healthcare<span class="category_post-count">(2)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="230" class ="category_input" id="human-resources" name="category_filter[]">
+								      	<label for="human-resources">Human Resources<span class="category_post-count">(6)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="247" class ="category_input" id="legal" name="category_filter[]">
+								      	<label for="legal">Legal<span class="category_post-count">(2)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="46" class ="category_input" id="marketing-and-advertising" name="category_filter[]">
+								      	<label for="marketing-and-advertising">Marketing and Advertising<span class="category_post-count">(28)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="234" class ="category_input" id="music" name="category_filter[]">
+								      	<label for="music">Music<span class="category_post-count">(1)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="238" class ="category_input" id="productivity" name="category_filter[]">
+								      	<label for="productivity">Productivity<span class="category_post-count">(29)</span></label>
+								    </div>
+																	<div class="each_category_filter">
+								      	<input type="checkbox" value="41" class ="category_input" id="retail-and-e-commerce" name="category_filter[]">
+								      	<label for="retail-and-e-commerce">Retail and E-commerce<span class="category_post-count">(3)</span></label>
+								    </div>
+															</div>								
+						</div>
+						<!-- End sidebar industry -->
+						<!-- Start sidebar tags -->
+						<div class="sidebar_rows sidebar_tags sidebar_taxo">
+							<span class="sidebar_titles">Categories:</span>
+							<div class="sidebar_row_content">
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="add-new" class ="tag_input" value="309" name="tags_filter[]">
+								      	<label for="add-new">Add New<span class="category_post-count">(0)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="advertising" class ="tag_input" value="59" name="tags_filter[]">
+								      	<label for="advertising">Advertising<span class="category_post-count">(9)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai" class ="tag_input" value="200" name="tags_filter[]">
+								      	<label for="ai">AI<span class="category_post-count">(39)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-avatar" class ="tag_input" value="239" name="tags_filter[]">
+								      	<label for="ai-avatar">AI Avatar<span class="category_post-count">(4)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-for-business" class ="tag_input" value="91" name="tags_filter[]">
+								      	<label for="ai-for-business">AI for Business<span class="category_post-count">(41)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-for-education" class ="tag_input" value="219" name="tags_filter[]">
+								      	<label for="ai-for-education">AI for Education<span class="category_post-count">(10)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-for-environment" class ="tag_input" value="235" name="tags_filter[]">
+								      	<label for="ai-for-environment">AI for Environment<span class="category_post-count">(4)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-for-music" class ="tag_input" value="237" name="tags_filter[]">
+								      	<label for="ai-for-music">AI for Music<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-for-translation" class ="tag_input" value="245" name="tags_filter[]">
+								      	<label for="ai-for-translation">AI for Translation<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-mentor" class ="tag_input" value="220" name="tags_filter[]">
+								      	<label for="ai-mentor">AI Mentor<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-quiz" class ="tag_input" value="279" name="tags_filter[]">
+								      	<label for="ai-quiz">AI Quiz<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-research-assistant" class ="tag_input" value="222" name="tags_filter[]">
+								      	<label for="ai-research-assistant">AI Research Assistant<span class="category_post-count">(6)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-test-cases-generator" class ="tag_input" value="310" name="tags_filter[]">
+								      	<label for="ai-test-cases-generator">AI test cases generator<span class="category_post-count">(0)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="ai-tutor" class ="tag_input" value="223" name="tags_filter[]">
+								      	<label for="ai-tutor">AI Tutor<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="analytics" class ="tag_input" value="302" name="tags_filter[]">
+								      	<label for="analytics">Analytics<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="art" class ="tag_input" value="233" name="tags_filter[]">
+								      	<label for="art">Art<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="blog-writing" class ="tag_input" value="271" name="tags_filter[]">
+								      	<label for="blog-writing">Blog Writing<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="blogging" class ="tag_input" value="203" name="tags_filter[]">
+								      	<label for="blogging">Blogging<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="business-ai" class ="tag_input" value="71" name="tags_filter[]">
+								      	<label for="business-ai">Business AI<span class="category_post-count">(6)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="chatbot" class ="tag_input" value="227" name="tags_filter[]">
+								      	<label for="chatbot">ChatBot<span class="category_post-count">(13)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="cold-calls" class ="tag_input" value="280" name="tags_filter[]">
+								      	<label for="cold-calls">Cold Calls<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="content-creator" class ="tag_input" value="299" name="tags_filter[]">
+								      	<label for="content-creator">Content Creator<span class="category_post-count">(3)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="content-generator" class ="tag_input" value="275" name="tags_filter[]">
+								      	<label for="content-generator">Content Generator<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="copywrite" class ="tag_input" value="274" name="tags_filter[]">
+								      	<label for="copywrite">Copywrite<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="data-generator" class ="tag_input" value="286" name="tags_filter[]">
+								      	<label for="data-generator">Data Generator<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="developer" class ="tag_input" value="94" name="tags_filter[]">
+								      	<label for="developer">Developer<span class="category_post-count">(5)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="email" class ="tag_input" value="277" name="tags_filter[]">
+								      	<label for="email">Email<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="game-creation" class ="tag_input" value="231" name="tags_filter[]">
+								      	<label for="game-creation">Game Creation<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="generative-ai" class ="tag_input" value="224" name="tags_filter[]">
+								      	<label for="generative-ai">Generative AI<span class="category_post-count">(17)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="goal-setting" class ="tag_input" value="241" name="tags_filter[]">
+								      	<label for="goal-setting">Goal Setting<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="hr" class ="tag_input" value="50" name="tags_filter[]">
+								      	<label for="hr">HR<span class="category_post-count">(7)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="influencer" class ="tag_input" value="294" name="tags_filter[]">
+								      	<label for="influencer">influencer<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="job-search" class ="tag_input" value="242" name="tags_filter[]">
+								      	<label for="job-search">Job Search<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="law" class ="tag_input" value="243" name="tags_filter[]">
+								      	<label for="law">Law<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="marketer" class ="tag_input" value="100" name="tags_filter[]">
+								      	<label for="marketer">Marketer<span class="category_post-count">(3)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="meeting-assistant" class ="tag_input" value="209" name="tags_filter[]">
+								      	<label for="meeting-assistant">Meeting Assistant<span class="category_post-count">(4)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="mlops" class ="tag_input" value="287" name="tags_filter[]">
+								      	<label for="mlops">MLOps<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="privacy" class ="tag_input" value="254" name="tags_filter[]">
+								      	<label for="privacy">Privacy<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="prompt-engineering" class ="tag_input" value="129" name="tags_filter[]">
+								      	<label for="prompt-engineering">prompt engineering<span class="category_post-count">(3)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="real-estate" class ="tag_input" value="278" name="tags_filter[]">
+								      	<label for="real-estate">Real Estate<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="recruitment" class ="tag_input" value="253" name="tags_filter[]">
+								      	<label for="recruitment">Recruitment<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="sales" class ="tag_input" value="273" name="tags_filter[]">
+								      	<label for="sales">Sales<span class="category_post-count">(6)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="seo" class ="tag_input" value="272" name="tags_filter[]">
+								      	<label for="seo">SEO<span class="category_post-count">(3)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="software-development" class ="tag_input" value="288" name="tags_filter[]">
+								      	<label for="software-development">Software Development<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="strategic-planning" class ="tag_input" value="248" name="tags_filter[]">
+								      	<label for="strategic-planning">Strategic Planning<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="tech-writers" class ="tag_input" value="236" name="tags_filter[]">
+								      	<label for="tech-writers">Tech Writers<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="travel" class ="tag_input" value="225" name="tags_filter[]">
+								      	<label for="travel">Travel<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="travel-planning" class ="tag_input" value="226" name="tags_filter[]">
+								      	<label for="travel-planning">Travel Planning<span class="category_post-count">(3)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="video-editor" class ="tag_input" value="300" name="tags_filter[]">
+								      	<label for="video-editor">Video Editor<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="virtual-teacher" class ="tag_input" value="221" name="tags_filter[]">
+								      	<label for="virtual-teacher">Virtual Teacher<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="website-creation" class ="tag_input" value="244" name="tags_filter[]">
+								      	<label for="website-creation">Website Creation<span class="category_post-count">(1)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="writing" class ="tag_input" value="204" name="tags_filter[]">
+								      	<label for="writing">Writing<span class="category_post-count">(2)</span> </label>
+								    </div>
+																	<div class="each_tag_filter">
+								      	<input type="checkbox" id="writing-copy" class ="tag_input" value="276" name="tags_filter[]">
+								      	<label for="writing-copy">Writing copy<span class="category_post-count">(1)</span> </label>
+								    </div>
+															</div>
+						</div>
+						<!-- End sidebar tags -->
+						<!-- Start sidebar Price -->
+						<div class="sidebar_rows sidebar_price">
+							<span class="sidebar_titles">Type</span>
+							<div class="sidebar_row_content">
+																	<div class="each_price_filter">
+								      	<input class ="price_input" type="checkbox" id="Free" value ="Free" name="price_filter">	
+								      	<label for="Free"> Free</label>
+								    </div>
+																	<div class="each_price_filter">
+								      	<input class ="price_input" type="checkbox" id="Paid" value ="Paid" name="price_filter">	
+								      	<label for="Paid"> Paid</label>
+								    </div>
+																	<div class="each_price_filter">
+								      	<input class ="price_input" type="checkbox" id="Free_Trial" value ="Free_Trial" name="price_filter">	
+								      	<label for="Free_Trial"> Free_Trial</label>
+								    </div>
+																	<div class="each_price_filter">
+								      	<input class ="price_input" type="checkbox" id="Featured" value ="Featured" name="price_filter">	
+								      	<label for="Featured"> Featured</label>
+								    </div>
+															</div>							
+							
+						</div>
+						<!-- End sidebar Price -->
+						<!-- Start sidebar Rating -->
+						<div class="sidebar_rows sidebar_popularity">
+							<span class="sidebar_titles">Rating</span>
+							<div class="sidebar_row_content">
+								<div class="each_popularity_fliter">
+							      	<input type="checkbox" id="5_stars" class ="stars_input" value ="4.5" name="stars_filter[]">
+							      	<label for="5_stars">4.5+</label>
+							    </div>
+							    <div class="each_popularity_fliter">
+							      	<input type="checkbox" id="4_stars" class ="stars_input"  value ="3.99" name="stars_filter[]">
+							      	<label for="4_stars">4+</label>
+							    </div>
+							    <div class="each_popularity_fliter">
+							      	<input type="checkbox" id="3_stars" class ="stars_input"  value ="2.99" name="stars_filter[]">
+							      	<label for="3_stars">3+</label>
+							    </div>
+							    <div class="each_popularity_fliter">
+							      	<input type="checkbox" id="1_stars" class ="stars_input"  value ="1.99" name="stars_filter[]">
+							      	<label for="1_stars">2+</label>
+							    </div>
+							</div>								
+						</div>
+						<!-- End sidebar Rating -->
+					</div>
+				</div>
+				<div class="right_filter_result">
+					<div class="grid-inner">
+						<div class="grid-four">
+							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="category" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/category.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/category.png" alt="category"></noscript>
+						</div>
+						<div class="grid-full">
+							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="vertical" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/vertical.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/vertical.png" alt="vertical"></noscript>
+						</div>
+					</div>
+					<div class="result_box_cont">
+						<div class="app_catlog_results_inner">					        		<div class="results_grids">
+						        	<a class="top_post_titles" href="https://genai.works/app/jamr-ai/">
+						            	<span class="my-image-class">
+						            				            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="JAMR.AI"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/composer-screenshot@0.5x.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/composer-screenshot@0.5x.png" class="contextual" alt="JAMR.AI"  ></noscript>
+		            								            					</span>
+								    	<div class="video-post-title home-posts">
+							        		<h5>167 </h5>
+							        	</div>
+							        </a>
+	            						<div class="post_text_content">
+									    	<div class="top_post_tags_ratings">
+				        						<div class="top_post_tags">
+					        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>AI for Business</a></div><div class="post_tags_items"><a>Writing</a></div>										    	</div>
+										    	<div class="post_rating_average">
+													<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="filled_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png" alt="filled_rating"></noscript><span>5.0</span>										    						
+										    	</div>
+									    	</div>
+									    	<a class="top_post_titles" href="https://genai.works/app/jamr-ai/">JAMR.AI</a>
+									    <a class="top_post_titles" href="https://genai.works/app/jamr-ai/">
+									    	<div class="top_post_description">
+												JAMR is an innovative AI-powered platform developed by London-based startup JAMR Technologies LTD.											</div>
+										</a>
+											<div class="categories_post">
+												<div class="categories_each_post"><a>Productivity</a></div>											</div>
+										</div>
+						        	</div>
+						        					        		<div class="results_grids">
+						        	<a class="top_post_titles" href="https://genai.works/app/mindpal-search/">
+						            	<span class="my-image-class">
+						            				            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="MindPal search"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/MindPal-search-feature-image.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/MindPal-search-feature-image.png" class="contextual" alt="MindPal search"  ></noscript>
+		            								            					</span>
+								    	<div class="video-post-title home-posts">
+							        		<h5>76 </h5>
+							        	</div>
+							        </a>
+	            						<div class="post_text_content">
+									    	<div class="top_post_tags_ratings">
+				        						<div class="top_post_tags">
+					        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>AI for Education</a></div>										    	</div>
+										    	<div class="post_rating_average">
+													<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+										    	</div>
+									    	</div>
+									    	<a class="top_post_titles" href="https://genai.works/app/mindpal-search/">MindPal search</a>
+									    <a class="top_post_titles" href="https://genai.works/app/mindpal-search/">
+									    	<div class="top_post_description">
+												An AI-powered search engine for seamless knowledge search on the internet. Autogenerated summary of											</div>
+										</a>
+											<div class="categories_post">
+																							</div>
+										</div>
+						        	</div>
+						        					        		<div class="results_grids">
+						        	<a class="top_post_titles" href="https://genai.works/app/customgpt/">
+						            	<span class="my-image-class">
+						            				            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="CustomGPT"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/1-1.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/1-1.png" class="contextual" alt="CustomGPT"  ></noscript>
+		            								            					</span>
+								    	<div class="video-post-title home-posts">
+							        		<h5>244 </h5>
+							        	</div>
+							        </a>
+	            						<div class="post_text_content">
+									    	<div class="top_post_tags_ratings">
+				        						<div class="top_post_tags">
+					        						<div class="post_tags_items"><a>AI</a></div>										    	</div>
+										    	<div class="post_rating_average">
+													<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+										    	</div>
+									    	</div>
+									    	<a class="top_post_titles" href="https://genai.works/app/customgpt/">CustomGPT</a>
+									    <a class="top_post_titles" href="https://genai.works/app/customgpt/">
+									    	<div class="top_post_description">
+												CustomGPT creates your own custom ChatGPT chatbot with all your business content. You then get											</div>
+										</a>
+											<div class="categories_post">
+																							</div>
+										</div>
+						        	</div>
+						        					        		<div class="results_grids">
+						        	<a class="top_post_titles" href="https://genai.works/app/ai-homedesign/">
+						            	<span class="my-image-class">
+						            				            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="AI HomeDesign"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/HD-Logo-Social-1.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/HD-Logo-Social-1.png" class="contextual" alt="AI HomeDesign"  ></noscript>
+		            								            					</span>
+								    	<div class="video-post-title home-posts">
+							        		<h5>200 </h5>
+							        	</div>
+							        </a>
+	            						<div class="post_text_content">
+									    	<div class="top_post_tags_ratings">
+				        						<div class="top_post_tags">
+					        						<div class="post_tags_items"><a>Generative AI</a></div><div class="post_tags_items"><a>Real Estate</a></div>										    	</div>
+										    	<div class="post_rating_average">
+													<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="filled_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/filled_rating.png" alt="filled_rating"></noscript><span>4.6</span>										    						
+										    	</div>
+									    	</div>
+									    	<a class="top_post_titles" href="https://genai.works/app/ai-homedesign/">AI HomeDesign</a>
+									    <a class="top_post_titles" href="https://genai.works/app/ai-homedesign/">
+									    	<div class="top_post_description">
+												AI HomeDesign isn&#8217;t just your ordinary real estate photo editing service; it&#8217;s the #1											</div>
+										</a>
+											<div class="categories_post">
+												<div class="categories_each_post"><a>Art</a></div>											</div>
+										</div>
+						        	</div>
+						        					        		<div class="results_grids">
+						        	<a class="top_post_titles" href="https://genai.works/app/nlpearl-ai/">
+						            	<span class="my-image-class">
+						            				            							<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="contextual" alt="NLPearl.ai"  data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/NLPearl-Icon.png" ><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/08/NLPearl-Icon.png" class="contextual" alt="NLPearl.ai"  ></noscript>
+		            								            					</span>
+								    	<div class="video-post-title home-posts">
+							        		<h5>106 </h5>
+							        	</div>
+							        </a>
+	            						<div class="post_text_content">
+									    	<div class="top_post_tags_ratings">
+				        						<div class="top_post_tags">
+					        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>Cold Calls</a></div><div class="post_tags_items"><a>Sales</a></div>										    	</div>
+										    	<div class="post_rating_average">
+													<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+										    	</div>
+									    	</div>
+									    	<a class="top_post_titles" href="https://genai.works/app/nlpearl-ai/">NLPearl.ai</a>
+									    <a class="top_post_titles" href="https://genai.works/app/nlpearl-ai/">
+									    	<div class="top_post_description">
+												NLPearl.AI is an innovative company specializing in conversational AI for telecommunications. We											</div>
+										</a>
+											<div class="categories_post">
+																							</div>
+										</div>
+						        	</div>
+						        					        		<div class="results_grids">
+						        	<a class="top_post_titles" href="https://genai.works/app/intelogos/">
+						            	<span class="my-image-class">
+						            		<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="NLPearl.ai" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/no-image.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/no-image.png" alt="NLPearl.ai"></noscript>		            					</span>
+								    	<div class="video-post-title home-posts">
+							        		<h5>130 </h5>
+							        	</div>
+							        </a>
+	            						<div class="post_text_content">
+									    	<div class="top_post_tags_ratings">
+				        						<div class="top_post_tags">
+					        						<div class="post_tags_items"><a>AI</a></div><div class="post_tags_items"><a>AI for Business</a></div><div class="post_tags_items"><a>HR</a></div>										    	</div>
+										    	<div class="post_rating_average">
+													<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="blank_rating" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/blank_rating.png" alt="blank_rating"></noscript><span>0</span>										    						
+										    	</div>
+									    	</div>
+									    	<a class="top_post_titles" href="https://genai.works/app/intelogos/">Intelogos</a>
+									    <a class="top_post_titles" href="https://genai.works/app/intelogos/">
+									    	<div class="top_post_description">
+												Intelogos &#8211; employee wellbeing and AI performance management. We help teams stay happy and											</div>
+										</a>
+											<div class="categories_post">
+												<div class="categories_each_post"><a>Human Resources</a></div>											</div>
+										</div>
+						        	</div>
+						        </div><button id="load-more-button">Load More</button>					</div>
+				</div>
+			</div>
+			<div class="loader_container" style="display:none;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="loader" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/loader.gif"><noscript><img src="https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/images/loader.gif" alt="loader"></noscript></div>
+		</div>
+	</div>
+</div><!-- End Filter Main  -->
+
+<footer id="site-footer" class="site-footer dynamic-footer footer-has-copyright" >
+
+		<div class="issue_contact">
+				<div class="issue_contact_inner"><h2>Having an Issue? </h2><a href="mailto:info@genai.works">Contact Us</a></div>
+		</div>
+
+
+	<div class="footer-inner">
+		<div class="site-branding show-logo">
+							<div class="site-logo show">
+					<a href="https://genai.works/" class="custom-logo-link" rel="home" aria-current="page"><img width="429" height="126" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20429%20126'%3E%3C/svg%3E" class="custom-logo" alt="GENAI" decoding="async" data-lazy-srcset="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI.png 429w, https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI-300x88.png 300w" data-lazy-sizes="(max-width: 429px) 100vw, 429px" data-lazy-src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI.png" /><noscript><img width="429" height="126" src="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI.png" class="custom-logo" alt="GENAI" decoding="async" srcset="https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI.png 429w, https://v2i6m2n4.rocketcdn.me/wp-content/uploads/2023/06/Logo_GenAI-300x88.png 300w" sizes="(max-width: 429px) 100vw, 429px" /></noscript></a>				</div>
+					</div>
+
+		
+					<div class="copyright show">
+				<p>All rights reserved © 2023 Genai Works</p>
+			</div>
+			</div>
+</footer>
+
+		<script>window.addEventListener('DOMContentLoaded', function() {
+		jQuery(document).ready(function(){
+			//Toggle sidebar menu
+			jQuery('.sidebar_rows .sidebar_titles').click(function(){
+				jQuery(this).toggleClass('row_close');
+				if(jQuery(this).hasClass('row_close')){
+					jQuery(this).parent('.sidebar_rows').find('.sidebar_row_content').hide('slow');
+				} else {
+					jQuery(this).parent('.sidebar_rows').find('.sidebar_row_content').show('slow');
+				}
+			});
+			//App filter ajax 
+			if (window.innerWidth > 767) {
+			    setTimeout(function() {
+			        jQuery('#huey').trigger('click');
+			    }, 0);
+			}
+			setTimeout(function(){ 
+				jQuery('#load-more-button').trigger('click');
+		  	}, 2000);
+			jQuery('.sidebar_rows input').click(function(){
+				var sortvalues = jQuery('input[name=sorting]:checked', '.sidebar_rows').val();				
+				var sortOptios = '';
+				if(sortvalues !=='' && typeof sortvalues !== "undefined"){sortOptios = sortvalues;}
+				var numberOfChecked = jQuery('.sidebar_rows input:checkbox:checked').length;
+				if(numberOfChecked<1 && typeof sortvalues === "undefined"){location.reload();}
+				var taxename ='';
+				if(jQuery(this).hasClass('category_input')){
+					taxename = 'app_categories';
+				} else if(jQuery(this).hasClass('tag_input')){
+					taxename = 'app_tags';
+				}
+				var tagArr = new Array();
+				var priceArr = new Array();
+				var ratingArr = new Array();
+				jQuery('.sidebar_rows input[type=checkbox]:checked').each(function() {
+				  	var tagids = jQuery(this).attr('value');
+			  	 	if(jQuery.isNumeric(tagids)){	
+			  	 		var floatValue = parseFloat(tagids);
+      					var decimalPart = floatValue % 5;
+						if (this.checked && tagids <= decimalPart) {
+							ratingArr.push(tagids);
+			          	}else{
+			          		tagArr.push(tagids);
+			          	} 
+		          	} else if (!jQuery.isNumeric(priceArr)) {
+		          		if (this.checked) {
+							priceArr.push(tagids);
+			          	} 
+		          	}
+				});
+                jQuery('.top_featured_slider').slick('unslick');
+                var opts = {
+			   		dots: false,
+				 	infinite:true,
+					autoplay:true,  
+					autoplaySpeed:5000, 		
+				  	speed: 800,
+				  	slidesToShow:3,
+				  	slidesToScroll: 1,
+				  	responsive: [
+					    {
+					      	breakpoint: 1024,
+					      	settings: {
+								autoplay:true,  
+								autoplaySpeed:3000,   
+						        slidesToShow: 2,
+						        slidesToScroll: 1,
+						        infinite: true,
+						        dots: true
+						      }
+					    },
+					    {
+					      	breakpoint: 767,
+					      	settings: {
+								autoplay:true,  
+								autoplaySpeed:3000,  
+						        slidesToShow: 2,
+						        slidesToScroll: 1
+					      	}
+					    },
+					    {
+					      	breakpoint: 480,
+					      	settings: {
+								autoplay:true,  
+								autoplaySpeed:3000,  
+						        slidesToShow: 1,
+						        slidesToScroll: 1
+					      	}
+					    }
+				  	]
+				};
+
+				//Filter result right box
+				var formData = {
+                    'action':'app_fliter_listing',
+                    'texonomy':taxename, 
+                    'filterTagIds': tagArr,
+                  	'filterPrice': priceArr,
+                  	'filterRating': ratingArr, 
+                  	'sortType': sortOptios, 
+                };
+				jQuery.ajax({
+                    type        : 'POST',
+                    datatype    : 'html', 
+                    url         : Genai_Ajax.ajaxurl, 
+                    data        : formData,
+                    beforeSend: function() {
+			        	jQuery('.loader_container').show();
+				    },
+                    success:function(res){
+                        setTimeout(function(){
+				        	jQuery('.loader_container').hide();
+				        },1000);
+                        var get_data = JSON.parse(res);
+                      	jQuery('.app_filter_zone .result_box_cont').html(get_data.filter_right);
+                  	},
+                  	complete: function() {
+				        //jQuery('.loader_container').hide();
+				    },
+                }); 	
+
+				//Top featured ajax
+                var formDataTopFeatured = {
+                    'action':'app_fliter_top_featured',
+                    'texonomy':taxename, 
+                    'filterTagIds': tagArr,
+                  	'filterPrice': priceArr,
+                  	'filterRating': ratingArr, 
+                  	'sortType': sortOptios, 
+                };
+				jQuery.ajax({
+                    type        : 'POST',
+                    datatype    : 'html', 
+                    url         : Genai_Ajax.ajaxurl, 
+                    data        : formDataTopFeatured,
+                    beforeSend: function() {
+			        	jQuery('.loader_container').show();
+				    },
+                    success:function(res){
+                        setTimeout(function(){
+				        	jQuery('.loader_container').hide();
+				        },1000);
+                        var get_data = JSON.parse(res);
+                      	jQuery('.filter_top_featured .top_featured_slider').html(get_data.top_featured_slider);
+                  	},
+                  	complete: function() {
+				        setTimeout(function(){ jQuery('.top_featured_slider').slick(opts);  },800);
+				    },
+                }); 
+
+				setTimeout(function(){				
+					loadmorefunc();
+				},1200);
+			});//close clicks																																  
+			/****************** Start keyword Filtet form filter left **************************/
+			var debounceTimer;
+			jQuery("input#keyword").keyup(function() {
+				jQuery('#keyword_for_top').val('');
+				/*------ ctrl, tab, alt and arrrows disable form keyup--------*/
+				var keyCode = event.keyCode || event.which;
+			    var key = event.key;
+			    var keysToDisable = [17, 18, 9, 37, 38, 39, 40]; // Ctrl, Alt, Tab, Arrow keys
+			    if (keysToDisable.indexOf(keyCode) !== -1) {
+			        event.preventDefault();
+			        return false;
+			    }
+				/*------ ctrl, tab, alt and arrrows disable form keyup--------*/
+
+				var length_Val = jQuery(this).val().length;
+			    var optsaa = {
+				   	dots: false,
+				  	infinite: false,
+				  	speed: 300,
+				  	slidesToShow: 3,
+				  	slidesToScroll: 3,
+				};
+				clearTimeout(debounceTimer);
+ 				debounceTimer = setTimeout(function() {
+					if (length_Val >= 2) {
+						jQuery('.top_featured_slider').slick('unslick');
+						jQuery('.recently_add_slider').slick('unslick');
+						jQuery.ajax({
+						      type        : 'POST',
+						      datatype    : 'html', 
+						      url         : Genai_Ajax.ajaxurl, 
+						      data: { action: 'post_searched_data', keyword: jQuery('#keyword').val(), field_length: length_Val},
+						
+							success:function(respose){
+							var get_data = JSON.parse(respose);
+							// console.log(get_data);
+							jQuery('.app_filter_zone .result_box_cont').html(get_data.filter_right);
+							jQuery('.filter_top_featured .top_featured_slider').html(get_data.top_featured_slider);
+							jQuery('.filter_recently_added_content .recently_add_slider').html(get_data.recent_posts);
+							},
+					      	complete: function() {
+						        setTimeout(function(){ jQuery('body').find('.top_featured_slider').slick(optsaa);  },200);
+						        setTimeout(function(){ jQuery('body').find('.recently_add_slider').slick(optsaa);},200);
+						    },
+						}); 
+						setTimeout(function(){				
+							loadmorefunc();
+						},800);
+					} else if (length_Val < 1) {
+						jQuery('.top_featured_slider').slick('unslick');
+						jQuery('.recently_add_slider').slick('unslick');	
+						jQuery.ajax({
+					      	type        : 'POST',
+					      	datatype    : 'html', 
+					      	url         : Genai_Ajax.ajaxurl, 
+					      	data: { action: 'post_searched_data', keyword: jQuery('#keyword').val(), field_length: length_Val},
+							success:function(respose){
+								var get_data = JSON.parse(respose);
+								jQuery('.app_filter_zone .result_box_cont').html(get_data.filter_right);
+								jQuery('.filter_top_featured .top_featured_slider').html(get_data.top_featured_slider);
+								jQuery('.filter_recently_added_content .recently_add_slider').html(get_data.recent_posts);
+							},
+				          	complete: function() {
+						       	setTimeout(function(){ jQuery('body').find('.top_featured_slider').slick(optsaa);  },200);
+					           	setTimeout(function(){ jQuery('body').find('.recently_add_slider').slick(optsaa);},200);
+						    },
+						}); 
+						setTimeout(function(){				
+							loadmorefunc();
+						},800);
+					} 
+
+					if(jQuery(this).val().length < 1){
+						jQuery(".in-filter").show();
+					}else{
+						jQuery(".in-filter").hide();
+					}
+
+				}, 800); 
+
+			});
+			/****************** End keyword Filtet form filter left ********************************/
+
+			/************* start keyword_for_top search home Top ***************************/
+			jQuery('body').on('keyup',  'input#keyword_for_top', function() {
+				jQuery('#keyword').val('');
+				/*------ ctrl, tab, alt and arrrows disable form keyup--------*/
+				var keyCode = event.keyCode || event.which;
+			    var key = event.key;
+			    var keysToDisable = [17, 18, 9, 37, 38, 39, 40]; // Ctrl, Alt, Tab, Arrow keys
+			    if (keysToDisable.indexOf(keyCode) !== -1) {
+			        event.preventDefault();
+			        return false;
+			    }
+				/*------ ctrl, tab, alt and arrrows disable form keyup--------*/
+				var length_Val = jQuery(this).val().length;
+			    var optsaa = {
+				   	dots: false,
+				  	infinite: false,
+				  	speed: 300,
+				  	slidesToShow: 3,
+				  	slidesToScroll: 3,
+				};
+				clearTimeout(debounceTimer);
+			 	debounceTimer = setTimeout(function() {
+					if (length_Val >= 2) {
+						jQuery('.top_featured_slider').slick('unslick');
+						jQuery('.recently_add_slider').slick('unslick');
+						jQuery.ajax({
+						      type        : 'POST',
+						      datatype    : 'html', 
+						      url         : Genai_Ajax.ajaxurl, 
+						      data: { action: 'post_searched_data_for_top', keyword_for_top: jQuery('#keyword_for_top').val(), field_length: length_Val},
+						
+							success:function(respose){
+							var get_data = JSON.parse(respose);
+							jQuery('.app_filter_zone .result_box_cont').html(get_data.filter_right);
+							jQuery('.filter_top_featured .top_featured_slider').html(get_data.top_featured_slider);
+							jQuery('.filter_recently_added_content .recently_add_slider').html(get_data.recent_posts);           
+							},
+							complete: function() {
+						        setTimeout(function(){ jQuery('body').find('.top_featured_slider').slick(optsaa);  },200);
+						        setTimeout(function(){ jQuery('body').find('.recently_add_slider').slick(optsaa);},200);
+						    },
+						}); 
+						setTimeout(function(){				
+							loadmorefunc();
+						},800);
+
+					} else if (length_Val < 1) {
+						jQuery('.top_featured_slider').slick('unslick');
+						jQuery('.recently_add_slider').slick('unslick');
+						jQuery.ajax({
+						      type        : 'POST',
+						      datatype    : 'html', 
+						      url         : Genai_Ajax.ajaxurl, 
+						      data: { action: 'post_searched_data_for_top', keyword_for_top: jQuery('#keyword_for_top').val(), field_length: length_Val},
+						
+							success:function(respose){
+							var get_data = JSON.parse(respose);
+							jQuery('.app_filter_zone .result_box_cont').html(get_data.filter_right);
+							jQuery('.filter_top_featured .top_featured_slider').html(get_data.top_featured_slider);
+							jQuery('.filter_recently_added_content .recently_add_slider').html(get_data.recent_posts);
+							},
+					      	complete: function() {
+						        setTimeout(function(){ jQuery('body').find('.top_featured_slider').slick(optsaa);  },200);
+					        	setTimeout(function(){ jQuery('body').find('.recently_add_slider').slick(optsaa);},200);
+						    },
+						}); 
+						setTimeout(function(){				
+							loadmorefunc();
+						},800);
+					} 
+				}, 800); 
+			});
+			/*********************** End keyword search home Top ***********************/
+
+
+			/********************** start Video Thumbnail For Single Top ***************************/
+			var top_videoUrl = jQuery('.app-post-video .video_thumb').text();
+			var videoIdMatch = top_videoUrl.match(/(?:[?&]v=|\/embed\/|\/\d\d?\/|\/vi?\/|https?:\/\/(?:www\.)?youtu\.be\/)([^&\n?#]+)/);
+			var top_videoId = (videoIdMatch && videoIdMatch[1]) ? videoIdMatch[1] : null;
+
+			if (top_videoId) {
+			  	var top_thumbnailUrl = "https://img.youtube.com/vi/" + top_videoId + "/hqdefault.jpg";
+			  	jQuery(".app-post-video .video_thumb").html('<img src="' + top_thumbnailUrl + '" alt="' + top_videoId + '">');
+			}
+			/********************************** End Video Thumbnail For Single Top ************************************ */
+
+			/********************************** start Video Thumbnail Slider ************************************ */
+			jQuery('.video-slider').each(function(i, e) {
+			  	var videoUrl = jQuery(e).find('.my-image-class .video_thumb').text();
+			  	if (videoUrl != "") {
+				    var videoId = videoUrl.match(/(?:[?&]v=|\/embed\/|\/\d\d?\/|\/vi?\/|https?:\/\/(?:www\.)?youtu\.be\/)([^&\n?#]+)/)[1];
+				    var thumbnailUrl = "https://img.youtube.com/vi/" + videoId + "/hqdefault.jpg";
+				    var textthum = jQuery(e).find('.my-image-class .video_thumb').html('<img src="' + thumbnailUrl + '" alt="' + videoId + '">');
+			  	}
+			});
+			/********************************** End Video Thumbnail Slider ************************************ */
+
+			jQuery('.app-video-container .play i').click(function(event){
+			  	event.preventDefault();
+			  	var $this = jQuery(this);
+			  	var vidoepoist_id = jQuery(this).attr('data-id');
+			  	jQuery.ajax({
+		            type        : 'POST',
+		            datatype  	: 'json', 
+		            url         : Genai_Ajax.ajaxurl, 
+		            data        : {'action':'get_video_url_for_app','vidoepoist_id':vidoepoist_id},
+		    		success:function(res){
+			        	if(res!==''){
+		              		jQuery($this).hide();
+					        jQuery($this).closest('div.app-video-container').find('.video-poster').hide();
+					        if(jQuery($this).closest('div.app-video-container').find('div.js-video iframe').length == 0 ){
+					        	jQuery($this).closest('div.app-video-container').find('div.js-video').append(res);
+					        }	        
+					    } else {
+					    	jQuery($this).html('No video');
+					    }
+	        		}
+	        	});
+			});
+		});//Document close
+		});</script>
+			<script>window.addEventListener('DOMContentLoaded', function() {
+		jQuery(document).ready(function(){
+			//Toggle sidebar menu
+			jQuery('.video_sidebar_rows_top .video_sidebar_titles_top').parent('.video_sidebar_rows_top').find('.sidebar_row_content_top').hide('slow');
+			jQuery('.video_sidebar_rows_top .video_sidebar_titles_top').click(function(){
+				jQuery(this).toggleClass('row_close');
+				if(jQuery(this).hasClass('row_close')){
+					jQuery(this).parent('.video_sidebar_rows_top').find('.sidebar_row_content_top').show('slow');
+				} else {
+					jQuery(this).parent('.video_sidebar_rows_top').find('.sidebar_row_content_top').hide('slow');
+				}
+			});
+		
+/*------------------------------ learn page side form search ------------------------------------*/
+
+	jQuery(".sidebar_blogs input#search_video_blog").keyup(function() {
+		var keyCode = event.keyCode || event.which;
+		    var key = event.key;
+		    var keysToDisable = [17, 18, 9, 37, 38, 39, 40]; // Ctrl, Alt, Tab, Arrow keys
+		    if (keysToDisable.indexOf(keyCode) !== -1) {
+		        event.preventDefault();
+		        return false;
+		    }
+		    var length_Val = jQuery(this).val().length;
+		   if (length_Val >= 2) {
+			// jQuery('.video_top_single_slide').slick('unslick');
+			jQuery.ajax({
+			      type        : 'POST',
+			      datatype    : 'html', 
+			      url         : Genai_Ajax.ajaxurl, 
+			      data: { action: 'learn_page_post_searched_data', keyword: jQuery('#search_video_blog').val(), field_length: length_Val},
+			
+				success:function(respose){
+				var get_data = JSON.parse(respose);
+				},
+			}); 
+			setTimeout(function(){				
+				loadmorefunc();
+			},800);
+		}else if (length_Val < 1) {
+			// jQuery('.video_top_single_slide').slick('unslick');
+			// jQuery('.recently_add_slider').slick('unslick');	
+			jQuery.ajax({
+				      type        : 'POST',
+				      datatype    : 'html', 
+				      url         : Genai_Ajax.ajaxurl, 
+				      data: { action: 'learn_page_post_searched_data', keyword: jQuery('#search_video_blog').val(), field_length: length_Val},
+				
+					success:function(respose){
+					var get_data = JSON.parse(respose);
+					},
+				}); 
+		}
+	});
+/*------------------------------ learn page side form search ------------------------------------*/
+			jQuery('.sidebar_row_content_top').each(function() {
+			    var videoTitleElement = jQuery(this).prev('.video_sidebar_titles_top');
+			    if (!videoTitleElement.length) {
+			        videoTitleElement = jQuery(this).next('.video_sidebar_titles_top');
+			    }
+			    if (!videoTitleElement.length) {
+			        videoTitleElement = jQuery(this).closest('.each_category_filter').find('.video_sidebar_titles_top');
+			    }
+			    jQuery(videoTitleElement).addClass('arrow-show')
+			});
+			//video filter ajax 
+			
+			jQuery('.results_grids').each(function(i, e) {
+			  var videoUrl = jQuery(e).find('.my-image-class .video_thumb').text();
+			  if (videoUrl != "") {
+			    // console.log('index=' + i + videoUrl);
+			    var videoId = videoUrl.match(/(?:[?&]v=|\/embed\/|\/\d\d?\/|\/vi?\/|https?:\/\/(?:www\.)?youtu\.be\/)([^&\n?#]+)/)[1];
+			    var thumbnailUrl = "https://img.youtube.com/vi/" + videoId + "/hqdefault.jpg";
+			    var textthum = jQuery(e).find('.my-image-class .video_thumb').html('<img src="' + thumbnailUrl + '" alt="' + videoId + '">');
+			    // jQuery(e).append(textthum);
+			  }
+			});
+			
+
+			jQuery('body').on('click', '.learn-video-cont .play i' , function(event){
+			  	event.preventDefault();
+			  	var $this = jQuery(this);
+			  	var vidoepoist_id = jQuery(this).attr('data-id');
+			  	jQuery.ajax({
+		            type        : 'POST',
+		            //datatype    : 'html', 
+		            datatype  : 'json', 
+		            url         : Genai_Ajax.ajaxurl, 
+		            data        : {'action':'get_video_url_for_learn','vidoepoist_id':vidoepoist_id},
+		    		success:function(res){
+			        	// console.log(res);
+			        	if(res!==''){
+		              		jQuery($this).hide();
+					        jQuery($this).closest('div.learn-video-cont').find('.video-poster').hide();
+					        if(jQuery($this).closest('div.learn-video-cont').find('div.js-video iframe').length == 0 ){
+					        	  jQuery($this).closest('div.learn-video-cont').find('div.js-video').append(res);
+					        	  // Wait for the iframe to load its content
+					          var iframe = $this.closest('div.learn-video-cont').find('div.js-video iframe');
+					          iframe.on('load', function() {
+					            var iframeContents = iframe.contents();
+					            var targetElement = iframeContents.find('.ytp-button'); // Replace with the appropriate selector for the desired element
+					            targetElement.click();
+					          });
+					        }
+					    } else {
+					    	jQuery($this).html('No video');
+					    }
+	        		}
+	        	});
+			});
+
+		});//Document close
+
+		jQuery(".close_hide").on('click', function() {
+			jQuery('.left_sidebar_options').removeClass('display_Block');
+		});
+		jQuery('.video_filter_hide').hide();
+		    jQuery("body").on('click', '.filter_hide_show', function(e) {
+		        // var container = e.delegateTarget;
+		        jQuery('.left_sidebar_options').addClass('display_Block');
+		        // jQuery('.left_sidebar_options', container).hide();
+		        // jQuery('.left_sidebar_options', container).show();
+		    });
+		});</script>
+	        <script>window.addEventListener('DOMContentLoaded', function() {
+        jQuery(document).ready(function(){
+            //sponser detail open
+            jQuery('body').on('click', '.top_brands_main a.sponser_link', function(e){
+                e.preventDefault();
+                var clickedSponsersID = jQuery(this).attr('data-id');
+                console.log(clickedSponsersID);
+                jQuery.ajax({
+                    type        : 'POST',
+                    datatype    : 'html', 
+                    url         : Genai_Ajax.ajaxurl, 
+                    data        : {'action':'sponser_post_in_popup','clickedSponsersID':clickedSponsersID},
+                    beforeSend: function() {
+                        //jQuery('.loader_container').show();
+                    },
+                    success:function(res_spon){
+                        var res_sponetc = JSON.parse(res_spon);
+                        console.log(res_sponetc);
+                        jQuery('.hideform_sponser').html(res_sponetc);
+                        jQuery('.hideform_sponser').show();
+                    },
+                    complete: function() {
+                        //jQuery('.loader_container').hide();
+                        //setTimeout(function(){ jQuery('.top_featured_slider').slick(opts);  },800);
+                    },
+                }); 
+            });
+
+            jQuery('body').on('click','.sponser_close', function(){
+                jQuery('.hideform_sponser').hide();
+                jQuery('.hideform_sponser').html('');
+            });
+
+        });//Document close
+        });</script>
+        <script>window.addEventListener('DOMContentLoaded', function() {
+        jQuery(document).ready(function() {
+           jQuery(".contact-popup").click(function() {
+               jQuery('#myModal').css('display','block');
+           });
+           jQuery(".btn-close").click(function() {
+               jQuery('#myModal').css('display','none');
+           });
+        });
+    });</script>    
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=1693595823' id='swv-js' defer></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/genai.works\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/js/index.js?ver=1693595823' id='contact-form-7-js' defer></script>
+<script src='https://v2i6m2n4.rocketcdn.me/wp-content/plugins/country-phone-field-contact-form-7/assets/js/intlTelInput.min.js?ver=6.3.1' id='nbcpf-intlTelInput-script-js' defer></script>
+<script id='nbcpf-countryFlag-script-js-extra'>
+var nbcpf = {"ajaxurl":"https:\/\/genai.works\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='https://v2i6m2n4.rocketcdn.me/wp-content/plugins/country-phone-field-contact-form-7/assets/js/countrySelect.min.js?ver=6.3.1' id='nbcpf-countryFlag-script-js' defer></script>
+<script id="nbcpf-countryFlag-script-js-after">window.addEventListener('DOMContentLoaded', function() {
+		(function($) {
+			$(function() {
+				$(".wpcf7-countrytext").countrySelect({
+					defaultCountry: "ca",
+				});
+				$(".wpcf7-phonetext").intlTelInput({
+					autoHideDialCode: false,
+					autoPlaceholder: "off",
+					nationalMode: true,
+					separateDialCode: false,
+					hiddenInput: "full_number",
+					initialCountry: "ca",	
+				});
+
+				$(".wpcf7-phonetext").each(function () {
+					var hiddenInput = $(this).attr('name');
+					//console.log(hiddenInput);
+					$("input[name="+hiddenInput+"-country-code]").val($(this).val());
+				});
+				
+				$(".wpcf7-phonetext").on("countrychange", function() {
+					// do something with iti.getSelectedCountryData()
+					//console.log(this.value);
+					var hiddenInput = $(this).attr("name");
+					$("input[name="+hiddenInput+"-country-code]").val(this.value);
+					
+				});$(".wpcf7-countrytext").on("keyup", function() {
+					var country_name = $(this).siblings(".flag-dropdown").find(".country-list li.active span.country-name").text();
+					if(country_name == "")
+					var country_name = $(this).siblings(".flag-dropdown").find(".country-list li.highlight span.country-name").text();
+					
+					var value   = $(this).val();
+					//console.log(country_name, value);
+					$(this).val(country_name + value.substring(country_name.length));
+				});
+				
+			});
+		})(jQuery);
+});</script>
+<script id='rating_ajax_define-js-extra'>
+var rating_Ajax = {"ajaxurl":"https:\/\/genai.works\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='https://v2i6m2n4.rocketcdn.me/wp-content/plugins/review-rating/js/rating_ajax_urls.js?ver=6.3.1' id='rating_ajax_define-js' defer></script>
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/review-rating/js/rating-custom-script.js?ver=1693595823' id='my-plugin-script-js' defer></script>
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/themes/hello-elementor-child/js/scripts.js?ver=1693595823' id='child-scripts-js' defer></script>
+<script src='https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor-child/js/lightbox-plus-jquery.min.js?ver=6.3.1' id='lightbox_script-js' defer></script>
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/jquery.slick/1.4.1/slick.min.js?ver=1693595823' id='slick-scripts-js' defer></script>
+<script id='global_ajax_define-js-extra'>
+var Genai_Ajax = {"ajaxurl":"https:\/\/genai.works\/wp-admin\/admin-ajax.php"};
+</script>
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/wp-content/themes/hello-elementor-child/js/ajax_urls.js?ver=1693595823' id='global_ajax_define-js' defer></script>
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/jquery.slick/1.4.1/slick.min.js?ver=1693595823' id='slick_js-js' defer></script>
+<script data-minify="1" src='https://v2i6m2n4.rocketcdn.me/wp-content/cache/min/1/1/your-api-key/tinymce/5/tinymce.min.js?ver=1693595825' id='tiny-mce-js' defer></script>
+<script src='https://v2i6m2n4.rocketcdn.me/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0' id='hello-theme-frontend-js' defer></script>
+<script>window.lazyLoadOptions = {
+                elements_selector: "img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }};
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
+
+                    mutations.forEach(function(mutation) {
+                        for (i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                return;
+                            }
+
+                           if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                return;
+                            }
+
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
+
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+
+                observer.observe(b, config);
+            }
+        }, false);</script><script data-no-minify="1" async src="https://v2i6m2n4.rocketcdn.me/wp-content/plugins/rocket-lazy-load/assets/js/16.1/lazyload.min.js"></script>
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1693604156 -->
